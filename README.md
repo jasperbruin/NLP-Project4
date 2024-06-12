@@ -3,7 +3,13 @@
 ## Introduction
 This project focuses on the verification of claims using the QuanTemp dataset, consisting of 15,000 claims and 420,000 evidence snippets. The repository hosts code for training natural language inference (NLI) models and various scripts for evaluating these models on numerical handling and claim decomposition tasks.
 
-![Workflow Overview](images/NLP.png)
+# Project Overview
+Here is an overview of the project workflow:
+![Workflow Overview](images/bm25pipeline.png)
+
+and the Mistral pipeline:
+
+![Workflow Overview](images/mistralpipeline.png)
 
 ## Project Structure
 - **NLI Train Models**: Scripts and notebooks related to training the NLI models.
